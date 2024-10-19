@@ -1,4 +1,4 @@
-# README: Análisis de Regresión Lineal con `homedata`
+# Análisis de Regresión Lineal con `homedata`
 
 Este proyecto realiza un análisis de regresión lineal utilizando el conjunto de datos `homedata` del paquete `UsingR`. El objetivo es explorar la relación entre los precios de las viviendas en 1970 y 2000.
 
