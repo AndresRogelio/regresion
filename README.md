@@ -78,3 +78,25 @@ El análisis incluye gráficos de dispersión, líneas de regresión y reportes 
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de realizar sugerencias o mejoras en el código.
+
+## Referencias
+
+### Paquetes
+
+- `UsingR`: [CRAN](https://cran.r-project.org/web/packages/UsingR/index.html)
+- `ggplot2`: [CRAN](https://cran.r-project.org/web/packages/ggplot2/index.html)
+- `report`: [CRAN](https://cran.r-project.org/web/packages/report/index.html)
+- `visreg`: [CRAN](https://cran.r-project.org/web/packages/visreg/index.html)
+- `ggpubr`: [CRAN](https://cran.r-project.org/web/packages/ggpubr/index.html)
+- `ggpmisc`: [CRAN](https://cran.r-project.org/web/packages/ggpmisc/index.html)
+- `equatiomatic`: [CRAN](https://cran.r-project.org/web/packages/equatiomatic/index.html)
+- `parameters`: [CRAN](https://cran.r-project.org/web/packages/parameters/index.html)
+- `jtools`: [CRAN](https://cran.r-project.org/web/packages/jtools/index.html)
+- `ggstatsplot`: [CRAN](https://cran.r-project.org/web/packages/ggstatsplot/index.html)
+- `performance`: [CRAN](https://cran.r-project.org/web/packages/performance/index.html)
+- `see`: [CRAN](https://cran.r-project.org/web/packages/see/index.html)
+
+### Datos
+
+- `homedata`: [UsingR Datasets](https://cran.r-project.org/web/packages/UsingR/UsingR.pdf) (páginas 16-18)
+
